@@ -1,0 +1,39 @@
+#summary Zwizzer: an application for the Google Android platform
+#labels Zwizzer,Android,Twitter
+
+=Zwizzer: an application for the Google Android platform=
+
+Online communities like Flick, del.icio.us, Facebook, or YouTube have
+established themselves as very popular and powerful services for publishing and
+searching content. Without any doubt, the most successful online community platform
+is the micro blogging service of Twitter, where people can publish short messages
+about their current activity or experience. One of the situations where these messages
+are published is that of mobility: a user sees something and wants to share it with
+friends. There is a corresponding explosion of applications that intend to leverage this
+situation.
+However, these applications are in most cases simple and fun and do not
+respond to the primary needs of the end-user. This need is the possibility to tag an
+experience, a state of mind or current activity with the location of the user. Several
+advantages can be considered: when arriving to a new location, i.e. school, university,
+home, work etc., the user will able to filter messages that relate to that given location
+(e.g. see what are the current reductions in a store, see traffic, see where is something
+interesting) and also when checking messages of friends, the user will be able to see
+where the given friend is.
+Zwizzer, a mobile application built on top of the Android Platform, is a
+gateway application to Twitter with the following main features: (i) login to the user’s
+Twitter account, (ii) viewing messages of followers, (iii) posting a message to Twitter,
+(iv) posting a message to Twitter tagged with the location of the user (retrieved via
+GPS).
+
+
+= More =
+
+for More information visit the SAPIENTIA university at www.ms.sapientia.ro
+
+=Coordinators=
+
+Johann Stan (Alcatel-Lucent Bell Labs France)
+Antal Margit (PhD) www.ms.sapientia.ro/~manyi
+
+=Coder, me=
+Kisgyörgy Zoltán
